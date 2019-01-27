@@ -1,2 +1,2 @@
 # egeStarWars
-A dos game basied ege(Easy Graphics Engine).
+A dos game  base on ege(Easy Graphics Engine).
